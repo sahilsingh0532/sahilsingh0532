@@ -1,4 +1,4 @@
-Profile Overview 👨‍💻:
+<h1>Profile Overview 👨‍💻:</h1><br>
 Hello! Welcome to my GitHub corner 🚀! I'm a dedicated student currently pursuing a Bachelor of Technology in Computer Science Engineering 🎓, with a robust foundation in Frontend Development and Mobile Application Development. My passion lies in creating impactful digital solutions, and I’m eager to push the boundaries of innovation in the tech world!
 
 Repositories 📂:
